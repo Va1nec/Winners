@@ -1,0 +1,103 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.header_s{
+ background: purple;
+}
+.container { max-width: 1200px;
+ margin: 0 auto;}
+ .nav__link{
+  display: flex;
+ }
+ .footer__img{
+  width: 50px;
+  height: 50px;
+ }
+ .logo{
+    margin: 20px;
+ }
+ .footer__img2{
+  width: 70px;
+  height: 45px;
+ }
+ .shop_title{
+  text-align: center;
+  color: white;
+ }
+ .text__title{
+ text-align: right;
+ display: flex;
+ margin: 20px;
+ color: white;
+ }
+.main{
+background: linear-gradient(purple, #090979);
+margin: 0 auto;
+  }
+.scool_img{
+  text-align: left;
+}
+.scool_btn{
+  border-radius: 40px;
+  background: linear-gradient(purple, darkblue);
+  margin: 20px;
+  width: 120px;
+  height: 50px;
+  color: white;
+  font-size: 20px;
+}
+.nav__item{
+
+
+font-family: 'Inter';
+font-style: normal; 
+font-weight: 500;
+font-size: 25px;
+color: #FFFFFF;
+}
+.nav__list{
+  display: flex;
+  list-style: none;
+  max-width: 1200px;
+ margin: 0 auto;
+  justify-content: space-between;
+  }
+  .nav__link{
+    text-decoration: none;
+    color: white;
+  }
+  .nav{
+    background: black;
+  }
+  .main__content{
+    display: flex;
+  }
+.footer__list{
+  list-style: none;
+  display: flex;
+}
+.footer{
+  background: black;
+  display: flex;
+  margin: 0 auto;
+}
+h1{
+  color: white;
+}
+h2{
+  color: white;
+}
+h3{
+  color: white;
+}
+h4{
+  color: white;
+}
+p{
+  color: white;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
